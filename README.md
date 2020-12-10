@@ -9,6 +9,7 @@ Features covered as follows
 3)Add Author
 4)Add User, Delete User
 5)Assign book to user and retrivate it
+6)Search added for book by category,author name,publisher name,book name
 
 Please execute following SQL statement
 
